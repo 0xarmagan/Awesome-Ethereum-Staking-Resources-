@@ -239,6 +239,10 @@ DVT is a technology primitive that allows an Ethereum PoS Validator to be run on
 * [Distributed Validators on Eth2 with Obol Network](https://www.youtube.com/watch?v=ruMMjpTSCXw)
 * [Gnosis Meetup with DIVA](https://www.youtube.com/watch?v=CLbVto-1Aos)
 
+**Set-up Guides**
+
+* [OBOL Network - Easy Guide](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/XJ8RU00PsYXaU4A1sRYvu6OSw8aumuAiY9nCEzzTCAg)
+
 
 
 
