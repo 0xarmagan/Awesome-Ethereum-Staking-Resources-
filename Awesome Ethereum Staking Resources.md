@@ -46,6 +46,19 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [DappNode](https://docs.dappnode.io/user/quick-start/first-steps)
 * [Stereum](https://stereum.net/)
 * [GLC - Set up an Ethereum /Gnosischain validator in under 30mins](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/n0AOGKh6Ck068icgY78i9DA3xPYWlWLGlE8HXnJeSl0)
+* * [Guide to Staking on Ethereum (Ubuntu/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-lodestar-193a2553a161?source=user_profile---------0----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Goerli/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-lodestar-f3c8f77e7097?source=user_profile---------1----------------------------)
+* [Supplementary Guide to Staking on Ethereum For Existing Stakers](https://someresat.medium.com/supplementary-guide-to-staking-on-ethereum-for-existing-stakers-57493678a460?source=user_profile---------2----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Nimbus)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-nimbus-31f56657ea8f?source=user_profile---------3----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Prysm)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-prysm-581fb1969460?source=user_profile---------4----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Lighthouse)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-lighthouse-773f5d982e03?source=user_profile---------5----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Teku)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-teku-f09ecd9ef2ee?source=user_profile---------6----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Goerli/Prysm)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-prysm-4a640794e8b5?source=user_profile---------7----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Goerli/Nimbus)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-nimbus-3b0e2c0c6e0e?source=user_profile---------8----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Goerli/Lighthouse)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-g%C3%B6erli-lighthouse-8d0a2a811e6e?source=user_profile---------9----------------------------)
+* [Guide to Staking on Ethereum (Ubuntu/Goerli/Teku)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-g%C3%B6erli-teku-6512b26f1372?source=user_profile---------10----------------------------)
+* [Ethereum Staker Migration Guide — Migrating from Prysm to Nimbus](https://someresat.medium.com/ethereum-staker-migration-guide-migrating-from-prysm-to-nimbus-b802a7dcb31e?source=user_profile---------11----------------------------)
+* [Ethereum Staker Migration Guides — Introduction](https://someresat.medium.com/ethereum-staker-migration-guides-introduction-45505079b1f0?source=user_profile---------12----------------------------)
 
 
 
