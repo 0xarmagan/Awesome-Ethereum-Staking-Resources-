@@ -1,11 +1,26 @@
 # Awesome Ethereum Staking Resources 
 
+![](https://i.imgur.com/GkHMBtQ.png)
+
+:::info
+:bulb: This document is under development. Last update: Jan, 29
+:::
+
+:::success
+
+This is an open source work. Those who want to add content or contribute can send a pr from [Github](https://github.com/0xarmagan/Awesome-Ethereum-Staking-Resources-/blob/main/Awesome%20Ethereum%20Staking%20Resources.md).
+
+
+Follow me on [Twitter](https://twitter.com/0xarmagan)
+Support:  [armagan.eth](https://etherscan.io/address/0x4dd05e12d0244575c77c31c24f0e273610c085d9)
+
+:::
 
 “The health, resilience, and censorship resistance of blockchains depend on having many independently operated and geographically dispersed full nodes. Each full node can help other new nodes obtain the block data to bootstrap their operation, as well as offer the operator an authoritative and independent verification of all transactions and contracts”.
 
 “Mastering Ethereum” by Andreas Antonopoulos and Gavin Wood
 
-Topics
+### Topics
 
 * **Solo Staking**
 * **DVT**
@@ -46,7 +61,13 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [DappNode](https://docs.dappnode.io/user/quick-start/first-steps)
 * [Stereum](https://stereum.net/)
 * [GLC - Set up an Ethereum /Gnosischain validator in under 30mins](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/n0AOGKh6Ck068icgY78i9DA3xPYWlWLGlE8HXnJeSl0)
-* * [Guide to Staking on Ethereum (Ubuntu/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-lodestar-193a2553a161?source=user_profile---------0----------------------------)
+* [Guide on how to do monitoring for an Ethereum validator](https://github.com/eth-educators/ethstaker-guides/blob/main/monitoring.md)
+* [Guide on how to do alerting for an Ethereum validator](https://github.com/eth-educators/ethstaker-guides/blob/main/alerting.md)
+* [Guide on how to prepare a staking machine for the Merge](https://github.com/eth-educators/ethstaker-guides/blob/main/prepare-for-the-merge.md)
+* [Guide on how to join the Goerli/Prater merge testnet (Geth/Lighthouse)](https://github.com/eth-educators/ethstaker-guides/blob/main/merge-goerli-prater.md)
+* [Guide on how to join the Goerli/Prater merge testnet (Besu/Teku)](https://github.com/eth-educators/ethstaker-guides/blob/main/merge-goerli-prater-alt.md)
+* [Coincashew - How to setup a validator for Ethereum staking on mainnet](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet)
+* [Guide to Staking on Ethereum (Ubuntu/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-lodestar-193a2553a161?source=user_profile---------0----------------------------)
 * [Guide to Staking on Ethereum (Ubuntu/Goerli/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-lodestar-f3c8f77e7097?source=user_profile---------1----------------------------)
 * [Supplementary Guide to Staking on Ethereum For Existing Stakers](https://someresat.medium.com/supplementary-guide-to-staking-on-ethereum-for-existing-stakers-57493678a460?source=user_profile---------2----------------------------)
 * [Guide to Staking on Ethereum (Ubuntu/Nimbus)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-nimbus-31f56657ea8f?source=user_profile---------3----------------------------)
@@ -64,9 +85,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 
 ---
 
-
-
-**Blogs, Videos, Podcasts**
+**Blogs, Videos, Podcasts, FAQs**
 
 * [Everything a Solo Staker Should Know for the Next Phase of Ethereum by Pol | Devcon Bogotá](https://www.youtube.com/watch?v=F-mlHOAtq2c&list=PLaM7G4Llrb7zL1YvK2DN4OGT4Kr3fwN__&index=2)
 * [Promoting Small and Independent Stakers: Q&A with the Ethereum Staking Protocols | Devcon Bogotá](https://www.youtube.com/watch?v=Exh-hQOV8kE&list=PLaM7G4Llrb7zL1YvK2DN4OGT4Kr3fwN__&index=4)
@@ -78,6 +97,9 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 [Client Diversity Matters: Thinking Independently Together](https://www.youtube.com/watch?v=OTqzkQVKuA0&list=PLaM7G4Llrb7zL1YvK2DN4OGT4Kr3fwN__&index=20)
 * [What’s New in Eth2](https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_220826)
 * [Weekinethereum ](https://weekinethereumnews.com/)
+* [EthStaker knowledge base](https://github.com/eth-educators/ethstaker-knowledgebase)
+* [Ethereum Withdrawal Call Series](https://www.youtube.com/watch?v=dGGMNYbWnP4)
+* [ETH Withdrawals FAQ](https://notes.ethereum.org/@launchpad/withdrawals-faq)
 
 
 
@@ -118,11 +140,33 @@ Consensus Layer Clients
 ---
 
 
-**MEV Relay List**
+### MEV
 
+**Relay List**
 * [MEV relay list for Mainnet](https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md)
+
+**Relay Monitoring**
+* [Mevboost](https://www.mevboost.org/)
 * [Mevwatch](https://www.mevwatch.info/)
 * [MEVPanda](https://www.mevpanda.com/)
+* [mevboost.pics ](https://www.mevboost.pics/)
+* [Relay Scan](https://www.relayscan.io/)
+* [Relays from beaconcha.in](https://beaconcha.in/relays)
+
+### Blogs, Podcasts, Videos
+
+* [MEVDay](https://mevday.org/)
+* [MEV.wtf Virtual Summit](https://hackmd.io/ivUzk3piQEG8ALzCGbxlag)
+* [What is MEV (Miner Extractable Value)?](https://www.youtube.com/watch?v=XbMtIg5OgCc)
+* [What is Miner Extractable Vaule?](https://www.youtube.com/watch?v=zliSbdLwy5U)
+* [Enter the Dark Forest: the terrifying world of MEV and Flash bots](https://www.youtube.com/watch?v=Wd0at2Pu6xY)
+* [Dive Back into MEV with Alex Stokes and Chris Hager](https://zeroknowledge.fm/243-2/)
+* [This is MEV by Sxysun, Devcon 2022](https://archive.devcon.org/archive/watch/6/this-is-mev/?tab=YouTube)
+* [Block Building after the merge by Alex Stokes, Devcon 2022](https://archive.devcon.org/archive/watch/6/block-building-after-the-merge/?tab=YouTube)
+* [Cost of Feudalism by Tarun Chitra and Guillermo Angeris, Devcon 2022](https://archive.devcon.org/archive/watch/6/cost-of-feudalism-towards-a-theory-of-mev/?tab=YouTube)
+
+
+---
 
 
 
@@ -190,7 +234,7 @@ Mainnet
 **Lending Market**
 
 * [Euler wstETH pool](https://app.euler.finance/market/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0)
-* Aave (soon)
+* [Aave wstETH pool](ipns://app.aave.com/reserve-overview/?underlyingAsset=0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0&marketName=proto_mainnet_v3)
 
 
 **Analytics, Statistics**
@@ -216,6 +260,7 @@ Mainnet
 * https://clientdiversity.org/
 * [Arkham's Liquid Staking Derivatives analysis](https://twitter.com/ArkhamIntel/status/1612880801502461952)
 * [How to Build a Decentralized Ethereum Liquid Staking Protocol? by Darren Langley | Devcon Bogotá](https://www.youtube.com/watch?v=CY_KnhS5Fhc)
+* [LSD endgame](https://medium.com/@MarkoInEther/lsd-endgame-dfe5b80fb882)
 
 
 
@@ -242,8 +287,14 @@ DVT is a technology primitive that allows an Ethereum PoS Validator to be run on
 **Set-up Guides**
 
 * [OBOL Network - Easy Guide](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/XJ8RU00PsYXaU4A1sRYvu6OSw8aumuAiY9nCEzzTCAg)
+* [Community Guide | @cryptomanufaktur8842 - How To Setup a Node On SSV Testnet V2](https://www.youtube.com/watch?v=X85Sxe9yS5U)
+* [DVT landscape part 1 
+](https://medium.com/@MarkoInEther/dvt-landscape-part-1-a6ea7bae458b)
+* [The future of DVT…🚀](https://medium.com/@MarkoInEther/the-future-of-dvt-dcc4abc9dec1?source=user_profile---------3----------------------------)
+* [What is DVT and why do we need it?](https://medium.com/@MarkoInEther/what-is-dvt-and-why-do-we-need-it-1d7b58d1130c)
 
 
 
+---
 
-
+Thank you
