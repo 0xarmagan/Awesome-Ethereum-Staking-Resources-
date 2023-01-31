@@ -37,7 +37,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [EthStaker](https://ethstaker.cc/)
   * [EthStaker YouTube](https://www.youtube.com/@ETHStaker)
   * [Reddit](https://www.reddit.com/r/ethstaker/)
-  * [Twitter ](https://twitter.com/ethStaker)
+  * [Twitter](https://twitter.com/ethStaker)
 * [Ethereum On Arm](https://ethereum-on-arm-documentation.readthedocs.io/)
 * [Nice Node](https://www.nicenode.xyz/)
 * [EthDocker](https://eth-docker.net/)
@@ -113,7 +113,10 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [Nodewatch](https://nodewatch.io/)
 * [Beaconcha.in Gnosis](https://beacon.gnosischain.com/)
 * [Beaconcha.in Ethereum](https://beaconcha.in/dashboard)
+* [Rated.network](https://www.rated.network/)
 * [ETH Deposits to Beacon Chain Stats](https://dune.com/LidoAnalytical/eth-deposits-stats)
+* [Rocketscan](https://rocketscan.io/)
+* [Project Sunshine](https://ethsunshine.com/)
 
 
 ---
