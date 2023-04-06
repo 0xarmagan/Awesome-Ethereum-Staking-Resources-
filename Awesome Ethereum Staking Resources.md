@@ -164,7 +164,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 [Client Diversity Matters: Thinking Independently Together](https://www.youtube.com/watch?v=OTqzkQVKuA0&list=PLaM7G4Llrb7zL1YvK2DN4OGT4Kr3fwN__&index=20)
 * [What’s New in Eth2](https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_220826)
 * [Weekinethereum ](https://weekinethereumnews.com/)
-* [EthStaker knowledge base](https://github.com/eth-educators/ethstaker-knowledgebase)
+* [EthStaker knowledge base](https://ethstaker.gitbook.io/ethstaker-knowledge-base)
 * [Ethereum Withdrawal Call Series](https://www.youtube.com/watch?v=dGGMNYbWnP4)
 * [Withdrawal Call Series #2](https://www.youtube.com/watch?v=J0u13RokzFg)
 * [ETH Withdrawals FAQ](https://notes.ethereum.org/@launchpad/withdrawals-faq)
@@ -354,12 +354,14 @@ DVT is a technology primitive that allows an Ethereum PoS Validator to be run on
 * [How to reach consensus with strangers](https://medium.com/nethermind-eth/how-to-reach-consensus-with-strangers-9b57264afd65)
 * [Threshold Signature Schemes](https://medium.com/nethermind-eth/threshold-signature-schemes-36f40bc42aca)
 * [SSV Developer ecosystem update 2023/02](https://forum.ssv.network/t/ssv-developer-ecosystem-update-2023-02/929)
+* [DVStakers](https://www.dvstakers.com)
 
 ### Set-up Guides
 
-* [OBOL Network - Easy Guide](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/XJ8RU00PsYXaU4A1sRYvu6OSw8aumuAiY9nCEzzTCAg)
+* [Obol Network - Easy Guide](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/XJ8RU00PsYXaU4A1sRYvu6OSw8aumuAiY9nCEzzTCAg)
 * [DV Launchpad Walkthrough - Leader Cluster Configuration](https://www.youtube.com/watch?v=OK6WE8te33Q)
 * [Community Guide | @cryptomanufaktur8842 - How To Setup a Node On SSV Testnet V2](https://www.youtube.com/watch?v=X85Sxe9yS5U)
+* [Obol key splitting tutorial | DVStakers](https://www.dvstakers.com/dvt-configuration/obol-dvt/validator-keyshares/split-existing-keys)
 
 
 ### Grants
