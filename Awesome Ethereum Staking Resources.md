@@ -247,7 +247,6 @@ Liquid staking allows users with less than 32 ETH to receive staking yields by s
 * [Stakewise](https://stakewise.io/)
 * [FraxEth](https://docs.frax.finance/frax-ether/frxeth-and-sfrxeth)
 * [Ankr](https://www.ankr.com/)
-* [StakeHound](https://stakehound.com/blog/)
 * [Bitfrost](https://bifrost.finance/)
 * [Stafi](https://www.stafi.io/)
 * [Shared Stake](https://www.sharedstake.org/)
