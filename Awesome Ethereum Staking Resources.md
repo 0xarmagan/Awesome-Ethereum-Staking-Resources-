@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/GkHMBtQ.png)
 
 :::info
-:bulb: This document is under development. Last update: Feb 23, 23
+:bulb: This document is under development. Last update: April 7, 23
 :::
 
 :::success
@@ -37,29 +37,28 @@ Support:  [armagan.eth](https://etherscan.io/address/0x4dd05e12d0244575c77c31c24
 
 * **Execution Layer**
     * [Geth](https://geth.ethereum.org/)
-      * [Kite's Nest (v1.11.2)](https://github.com/ethereum/go-ethereum/releases) Feb 22, 2022
+      * [Geth Erszba v1.11.5](https://github.com/ethereum/go-ethereum/releases/tag/v1.11.5)
     * [Nethermind](http://nethermind.io/)
-      * [v1.17 ](https://github.com/NethermindEth/nethermind/releases/tag/1.17.0) Feb 17, 2023
+      * [v1.17.3 ](https://github.com/NethermindEth/nethermind/releases/tag/1.17.3)
     * [Erigon](https://github.com/ledgerwatch/erigon#erigon)
-      * [v2.38.1](https://github.com/ledgerwatch/erigon/releases/tag/v2.38.1) Feb 7, 2023
+      * [v2.40.2](https://github.com/ledgerwatch/erigon/releases/tag/v2.40.2)
     * [Besu](https://hyperledger.org/use/besu) 
-      * [23.1.0](https://github.com/hyperledger/besu-docs/releases/tag/23.1.0) Feb 17, 2023
+      * [23.1.2](https://github.com/hyperledger/besu-docs/releases/tag/23.1.2) 
     * [Reth](https://github.com/paradigmxyz/reth) Pre-Alpha
     * [Silkworm](https://github.com/torquem-ch/silkworm#about-silkworm) Pre-Alpha
 
 
 * **Consensus Layer**
     * [Lodestar](https://lodestar.chainsafe.io/)
-      * [v1.4.0](https://blog.chainsafe.io/lodestar-v1-4-0-release-and-a-look-ahead-8f0a99c2e708) Jan 31, 2023 
+      * [v1.7.2](https://github.com/ChainSafe/lodestar/releases/tag/v1.7.2)
     * [Teku](https://consensys.net/knowledge-base/ethereum-2/teku/)
-      * [v23.2.0](https://github.com/ConsenSys/teku/releases/tag/23.2.0) Feb 17, 2023
+      * [v23.3.1](https://github.com/ConsenSys/teku/releases/tag/23.3.1)
     * [Prysm](https://prysmaticlabs.com/)
-      * [v3.2.1](https://t.co/wNBzalLIdr) Feb 13,2022
+      * [v4.0.1](https://github.com/prysmaticlabs/prysm/releases/tag/v4.0.1)
     * [Nimbus](https://nimbus.team/)
-      * [v23.2.0](https://github.com/status-im/nimbus-eth2/releases/tag/v23.2.0) Feb 20, 2023
-      * [Design notes for decoupled EIP4844](https://github.com/status-im/nimbus-eth2/pull/4550)
+      * [v23.3.2](https://github.com/status-im/nimbus-eth2/releases/tag/v23.3.2)
     * [Lighthouse](https://lighthouse.sigmaprime.io/)
-      * [v3.5.0 Gazorpazorpfield](https://github.com/sigp/lighthouse/releases/tag/v3.5.0) Feb 22, 2023
+      * [v4.0.1](https://github.com/sigp/lighthouse/releases/tag/v4.0.1)
 
 :::danger 
 
@@ -89,6 +88,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
     * [Reddit](https://www.reddit.com/r/ethstaker/)
     * [Twitter ](https://twitter.com/ethStaker)
 * [Ethereum On Arm](https://ethereum-on-arm-documentation.readthedocs.io/)
+* [DVStakers](https://www.dvstakers.com/)
 
 **Platforms**
   * [Nice Node](https://www.nicenode.xyz/) - node management kit
@@ -171,6 +171,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [BLS Signatures & Withdrawals](https://medium.com/nethermind-eth/bls-signatures-withdrawals-bbf38658c242)
 * [How Proof of Stake on Ethereum works](https://stonecoldpat.substack.com/p/how-proof-of-stake-ethereum-works)
 * [Guide on how to join the Zhejiang testnet (Geth/Lighthouse)](https://github.com/eth-educators/ethstaker-guides/blob/main/zhejiang.md)
+* [Rhino Review Ethereum Staking Journal](https://rhinoreview.substack.com/)
 
 
 ---
@@ -178,8 +179,8 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 ## Meetup/Community Call/Event
 
 ### Upcoming 
-* 
 
+* [Shapella Watch Party](https://www.youtube.com/watch?v=BVq1pz3FrDo)
 
 ### Past
 * [Gnosis Validator Meetup with Nethermind](https://www.youtube.com/watch?v=P7nuPNZZjJQ)
@@ -188,7 +189,10 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [Feb 1 Gnosis Core Devs Call ](https://www.youtube.com/watch?v=NxPWQLd8H7g)
 * [Feb 2 AllCoreDev Call](https://t.co/cGHswIbfER)
 * [Gnosis Validator Meetup with Erigon](https://twitter.com/gnosischain/status/1625822421440667648)
-* * [EthStaker community calls with Lodestar](https://www.youtube.com/watch?v=h8dZ9wa7mZY)
+*[EthStaker community calls with Lodestar](https://www.youtube.com/watch?v=h8dZ9wa7mZY)
+* [EthStaker Goerli Shapella Upgrade call](https://www.youtube.com/watch?v=mu_oKzmvHlc&ab_channel=EthStaker)
+* [Gnosis Ecosystem Wednesday with Stereum](https://www.youtube.com/watch?v=oBst86wBwzI)
+* [EthStaker Community Call #33: Rocket Pool Atlas Upgrade](https://www.youtube.com/watch?v=H4MGmZP2De8)
 
 ### MEV
 
@@ -247,7 +251,6 @@ Liquid staking allows users with less than 32 ETH to receive staking yields by s
 * [Stakewise](https://stakewise.io/)
 * [FraxEth](https://docs.frax.finance/frax-ether/frxeth-and-sfrxeth)
 * [Ankr](https://www.ankr.com/)
-* [StakeHound](https://stakehound.com/blog/)
 * [Bitfrost](https://bifrost.finance/)
 * [Stafi](https://www.stafi.io/)
 * [Shared Stake](https://www.sharedstake.org/)
@@ -360,6 +363,7 @@ DVT is a technology primitive that allows an Ethereum PoS Validator to be run on
 * [OBOL Network - Easy Guide](https://mirror.xyz/0xf3bF9DDbA413825E5DdF92D15b09C2AbD8d190dd/XJ8RU00PsYXaU4A1sRYvu6OSw8aumuAiY9nCEzzTCAg)
 * [DV Launchpad Walkthrough - Leader Cluster Configuration](https://www.youtube.com/watch?v=OK6WE8te33Q)
 * [Community Guide | @cryptomanufaktur8842 - How To Setup a Node On SSV Testnet V2](https://www.youtube.com/watch?v=X85Sxe9yS5U)
+* [SSV Operator + Validator Migration V2(shifu) to V3(Jato)](https://www.youtube.com/watch?v=HxLFC7tMYIs)
 
 
 ### Grants
