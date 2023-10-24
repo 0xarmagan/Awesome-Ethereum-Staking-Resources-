@@ -106,9 +106,11 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
     * [Gnosis](https://beacon.gnosischain.com/)
   * [ETH Deposits to Beacon Chain Stats](https://dune.com/LidoAnalytical/eth-deposits-stats)
   * [Migalabs](https://migalabs.es/crawler/dashboard)
+  * [Rated.network](https://www.rated.network/)
   * [ethstaker.tax](https://ethstaker.tax/)
   * [ETH Staking Ecosystem](https://dune.com/obol_labs/eth-staking-ecosystem)
-  *  [Project Sunshine - A dashboard to measure the health of Ethereum's decentralization](https://ethsunshine.com/)
+  * [Project Sunshine - A dashboard to measure the health of Ethereum's decentralization](https://ethsunshine.com/)
+  * * [Rocketscan](https://rocketscan.io/)
 
 **Tools**
   * [EthDocker](https://eth-docker.net/)
