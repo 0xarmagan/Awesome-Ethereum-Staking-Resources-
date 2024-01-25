@@ -136,6 +136,8 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [Guide on how to join the Goerli/Prater merge testnet (Geth/Lighthouse)](https://github.com/eth-educators/ethstaker-guides/blob/main/merge-goerli-prater.md)
 * [Guide on how to join the Goerli/Prater merge testnet (Besu/Teku)](https://github.com/eth-educators/ethstaker-guides/blob/main/merge-goerli-prater-alt.md)
 * [Coincashew - How to setup a validator for Ethereum staking on mainnet](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet)
+* [Coincashew - How to setup a validator for Ethereum staking on testnet GOERLI](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-testnet-prater)
+* [Coincashew - Guide to MEV-boost for Ethereum Staking](https://www.coincashew.com/coins/overview-eth/mev-boost)
 * [Guide to Staking on Ethereum (Ubuntu/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-lodestar-193a2553a161?source=user_profile---------0----------------------------)
 * [Guide to Staking on Ethereum (Ubuntu/Goerli/Lodestar)](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-lodestar-f3c8f77e7097?source=user_profile---------1----------------------------)
 * [Supplementary Guide to Staking on Ethereum For Existing Stakers](https://someresat.medium.com/supplementary-guide-to-staking-on-ethereum-for-existing-stakers-57493678a460?source=user_profile---------2----------------------------)
@@ -200,6 +202,7 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 
 **Relay List**
 * [MEV relay list for Mainnet](https://github.com/eth-educators/ethstaker-guides/blob/main/MEV-relay-list.md)
+* [Coincashew - MEV Relay List for Mainnet and Goerli Testnet](https://www.coincashew.com/coins/overview-eth/mev-boost/mev-relay-list)
 
 **Relay Monitoring**
 * [Mevboost](https://www.mevboost.org/)
@@ -208,6 +211,8 @@ Solo staking increases the decentralization of the Ethereum network, making Ethe
 * [mevboost.pics ](https://www.mevboost.pics/)
 * [Relay Scan](https://www.relayscan.io/)
 * [Relays from beaconcha.in](https://beaconcha.in/relays)
+* [MEV Relays - Uptime Monitor](https://mev-relays.beaconstate.info)
+* [Metrika Relay Monitor](https://app.metrika.co/ethereum/dashboard/relay-monitor)
 
 ### Blogs, Podcasts, Videos
 
